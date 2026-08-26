@@ -1,5 +1,5 @@
-// medbasha - Service Worker - Versión 2.8.1
-const CACHE_NAME = 'bustalk-tmsa-v2.8.1';
+// medbasha - Service Worker - Versión 2.8.2
+const CACHE_NAME = 'bustalk-tmsa-v2.8.2';
 const urlsToCache = [
   './index.html',
   './manifest.json',
